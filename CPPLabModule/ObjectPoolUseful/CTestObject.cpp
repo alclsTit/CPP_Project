@@ -1,0 +1,1 @@
+#include "ObjectPoolUseful\CTestObject.h"
